@@ -1,0 +1,13 @@
+# Data mahasiswa sederhana
+
+mahasiswa = 
+{"nim": "2201234",
+    "nama": "Andi Saputra",
+    "jurusan": "Teknik Informatika",
+    "ipk": 3.75}
+
+print("=== DATA MAHASISWA ===")
+print("NIM     :", mahasiswa["nim"])
+print("Nama    :", mahasiswa["nama"])
+print("Jurusan :", mahasiswa["jurusan"])
+print("IPK     :", mahasiswa["ipk"])
